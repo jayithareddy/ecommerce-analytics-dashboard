@@ -1,3 +1,4 @@
 archive/
 *.db
 .ipynb_checkpoints/
+.DS_Store
